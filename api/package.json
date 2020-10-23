@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start:dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}

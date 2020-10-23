@@ -7,12 +7,21 @@ tarefas que salva os dados via uma api
 
 ## Roadmap
 
-- [ ] criar estrutura
+- [x] criar estrutura Api
 
-- [ ] criar api para salvar tarefas
+- [x] criar api para salvar tarefas
+
+- [ ] criar estrutura front
 
 - [ ] consumir lista de tarefas
 
 - [ ] adicionar nova tarefa a lista de tarefas
 
 - [ ] mudar estado de uma tarefa
+
+## Api 
+
+**end point**
+
+https://api-vfriccrxlg.now.sh/
+
